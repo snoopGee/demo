@@ -20,4 +20,3 @@ func main() {
     fmt.Println(int(C.bridge_int_func(f)))
     // Output: 42
 }
-
